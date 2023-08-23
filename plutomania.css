@@ -1,0 +1,38 @@
+body {
+background-image:url('hello.PNG');
+background-repeat:no-repeat;
+background-attachment:fixed;
+background-position: center;
+background-size:cover;
+font-variant: small-caps;
+color:#fff;
+	
+	}
+
+
+h { 
+color:#ff0000;
+
+}
+.slander {
+color:green;
+}	
+h2{
+    word-spacing:2cm;
+}
+h3{
+    text-decoration: underline;
+	text-shadow:2px 2px #0000ff;
+}
+h4 {
+    text-align: center;
+}
+h5 {
+    text-transform:lowercase ;
+}
+h6{
+    text-indent: 4cm;
+}
+p.dotted{
+    border-style:dotted;
+}
